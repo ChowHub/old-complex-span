@@ -1,0 +1,10 @@
+For this practice set, letters will appear on the screen one at a time.
+
+Try to remember each letter in the order it was presented in.
+
+After 3 to 7 letters have been shown, you will see a screen listing 12 possible letters with a check box beside each one.
+
+Your job is to select each letter in the order presented.  To do this, use the mouse to select the appropriate box beside each letter.  The letters you select will appear at the bottom of the screen.
+
+
+Click the mouse button to continue.

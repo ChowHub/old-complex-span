@@ -1,0 +1,16 @@
+Now you will practice doing the math part of the experiment.
+
+A math problem will appear on the screen, like this:
+
+(2 * 1) + 1 = ?
+
+As soon as you see the math problem, you should compute the correct answer.
+
+In the above problem, the answer 3 is correct.
+
+When you know the correct answer, you will click the mouse button.
+
+
+
+
+Click the mouse to continue.

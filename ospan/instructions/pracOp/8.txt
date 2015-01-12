@@ -1,0 +1,19 @@
+You will see a number displayed on the next screen, along with a box marked TRUE and a box marked FALSE.
+
+If the number on the screen is the correct answer to the math problem, click on the TRUE box with the mouse.
+
+If the number is not the correct answer, click on the FLASE box.
+
+For example, if you see the problem
+(2 * 2) + 1 = 
+and the number on the following screen is 5
+click the TRUE box, because the answer is correct.
+
+If you see the problem
+(2 * 2) + 1 = ?
+and the number on the next screen is 6
+click the FALSE box, because the correct answer is 5, not 6.
+
+After you click on one of the boxes, the computer will tell you if you made the right choice.
+
+Click the mouse to continue.

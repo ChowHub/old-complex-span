@@ -1,0 +1,10 @@
+For this practice set, squares will appear on the screen one at a time.
+
+Try to remember where each square was, in the order it was presented in.
+
+After 2 - 5 squares have been shown, you will see a grid of the 16 possible places the squares could have been.
+
+Your job is to select each square in the order presented.  To do this, use the mouse to select the appropriate boxes.  The squares you select will turn red.
+
+
+    Click the mouse button to continue.

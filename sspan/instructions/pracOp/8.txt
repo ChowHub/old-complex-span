@@ -1,0 +1,14 @@
+Once you have decided if the picture is symmetrical, click the mouse.
+
+On the next screen a YES and NO box will appear.
+
+If the picture you saw was symmetrical, click the YES box.  If it was not symmetrical, click the NO box.
+
+
+
+After you click on one of the boxes, the computer will tell you if you made the right choice.
+
+
+
+
+Click the mouse to continue.

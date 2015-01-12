@@ -1,0 +1,9 @@
+Now you will practice doing both parts of the experiment at the same time.
+
+In the next practice set, you will be given one of the symmetry problems.  Once you make your decision about the picture, a square will appear on the screen.  Try and remember the position of the square.
+
+In the previous section where you only decided about the picture symmetry, the computer computed your average time to solve the problems.  If you take longer than your average time, the computer will automatically move you onto the square part, thus skipping the True or False part and will count that problem as an error.
+Therefore it is VERY important to solve the problems as quickly and as accurately as possible
+
+
+Click the mouse to continue.
